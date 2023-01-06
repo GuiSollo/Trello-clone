@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+.Navlabel {
+ 
+ 
+}
+
+.arrowdown{
+  margin-left: 0.8rem;
+  
+}
+.Exclamation {
+ 
+
+}
+
+.Ring {
+
+}
+
+.PerfilMenu {
+}
+.perfil {
+  height: 100px;
+  width: 100px;
+}
+.More {
+  height: 30px;
+  width: 30px;
+  margin-left: 65px;
+  transform: rotate(180deg);
+}
+
+.Painting {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Member {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Config {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Set {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  transform: rotate(90deg);
+} 
+
+
+.Table {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+
+.Calendar {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Positive {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Posting {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.Promo {
+  height: 100px;
+  width: auto;
+}
+
